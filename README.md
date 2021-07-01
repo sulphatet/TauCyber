@@ -1,3 +1,3 @@
 # TauCyber
 
-Some random programs i had done for an online degree.
+Some random programs i have done from the internet. Basic and part of a beginners course.
